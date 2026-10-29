@@ -30,7 +30,8 @@ Bu proje, Murat Yücedağ'ın Udemy üzerindeki ASP.NET Core eğitimi kapsamınd
 
 ## 📸 Ekran Görüntüleri
 <img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/ef5ed153-be25-461c-8f45-c6f72910c39f" />
-<img width="1911" height="910" alt="image" src="https://github.com/user-attachments/assets/8e310243-f7da-4179-bd9a-61a371c07882" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/283f5923-8d57-42ee-8d88-8e298068ddc2" />
+
 <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/60bd084c-a44e-4dfe-b620-bdd3fa158f4c" />
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/11518c00-1d13-49b8-90d2-01a74b07118f" />
 <img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/e67f125f-e4e1-4799-b105-bc28eb1c9ad8" />
