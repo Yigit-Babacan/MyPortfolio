@@ -1,21 +1,26 @@
-# 💻 Proje Hakkında
+# Proje Hakkında
 
-MyPortfolio, tüm içeriği veritabanından dinamik olarak yüklenen bir kişisel portfolyo sitesidir. Site ve admin paneli ViewComponent yapısıyla modüler olarak geliştirilmiştir. Veri erişimi Entity Framework Core (Code First) ile sağlanmaktadır.
+.NET ve Code First mimarisiyle geliştirilmiş; yetenekler, deneyimler ve hakkımda gibi bölümlerin tamamen dinamik bir admin paneli üzerinden yönetilebildiği kişisel portfolyo web projesi.
 
 Bu proje, Murat Yücedağ'ın Udemy üzerindeki ASP.NET Core eğitimi kapsamında geliştirilmiştir.
 
-## ✨ Özellikler
+### Ana sayfa
+Öne Çıkan: İsim ve giriş cümlesi.
+Hakkımda: Kişisel bilgiler ve fazlası.
+Yetenekler: Teknik beceriler ve seviyeleri.
+Deneyimler: Mesleki deneyimlerin listelenmesi.
+Projeler: Projelerin ve görsellerinin sergilenmesi.
+İletişim: Telefon, e-posta ve adres bilgilerinin gösterilmesi.
+Sosyal Medya: GitHub, LinkedIn ve diğer sosyal medya bağlantıları.
+İletişim Formu: Ziyaretçilerin mesaj gönderebilmesi.
 
-### 🌐 Portfolyo Sitesi
-- Öne çıkan alan, hakkımda, yetenekler ve deneyimler
-- Portfolyo ve referanslar bölümü
-- İstatistik ve iletişim bölümü
-- Responsive tasarım
-
-### 🛠️ Admin Paneli
-- Deneyim yönetimi (CRUD)
-- Yapılacaklar listesi (CRUD + durum değiştirme)
-- Gelen kutusu (okundu / okunmadı, detay, silme)
+###  Admin Paneli
+- Hakkımda yönetimi
+- Deneyim yönetimi
+- Yapılacaklar listesi
+- Öne çıkanlar yönetimi
+- İletişim bilgileri
+- Gelen kutusu (Mesajları silme, Görüntüleme, Okundu/Okunmadı olarak işaretleme özelliklerini sağlayabiliyoruz)
 - İstatistik sayfası
 
 ## 🚀 Kullanılan Teknolojiler
