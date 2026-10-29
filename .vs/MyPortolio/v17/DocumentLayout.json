@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|c:\\users\\yi\u011Fit\\desktop\\portfolyo\\myportolio\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|solutionrelative:views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|c:\\users\\yi\u011Fit\\desktop\\portfolyo\\myportolio\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|solutionrelative:views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|c:\\users\\yi\u011Fit\\desktop\\portfolyo\\myportolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|solutionrelative:controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|c:\\users\\yi\u011Fit\\desktop\\portfolyo\\myportolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5226664-842D-42F4-B280-FAB0216032AD}|MyPortolio.csproj|solutionrelative:views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "Views\\Statistic\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T14:01:51.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeDocumentMoniker": "Views\\Experience\\CreateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeToolTip": "Views\\Experience\\CreateExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T21:24:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T21:24:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit\\Desktop\\Portfolyo\\MyPortolio\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "Controllers\\ExperienceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:16:06.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
